@@ -2,7 +2,7 @@
 
 **NOTE:** While I have written this script myself, I did ask Gemini to generate this README.
 
-This script removes all saved albums from your Spotify library.
+This script removes all saved albums from your Spotify library. I wrote this because I wanted to give my Spotify library a fresh start. Note that it will NOT affect your playlists.
 
 ## Prerequisites
 

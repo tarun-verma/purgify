@@ -25,7 +25,7 @@ pip install spotipy
     *   Click "Save".
 
 3.  **Set Credentials in the Script:**
-    *   Open `album_purger.py`.
+    *   Open `purger.py`.
     *   You will find your Client ID and Client Secret in your Spotify App's dashboard.
     *   Copy your Client ID and paste it as the value for `SPOTIPY_CLIENT_ID`.
     *   Copy your Client Secret and paste it as the value for `SPOTIPY_CLIENT_SECRET`.
@@ -42,7 +42,7 @@ pip install spotipy
 Once the setup is complete, run the script from your terminal:
 
 ```bash
-python album_purger.py
+python purger.py
 ```
 
 The script will prompt you to log in to your Spotify account in your web browser for authorization the first time it runs.
